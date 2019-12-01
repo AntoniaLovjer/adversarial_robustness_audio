@@ -1,0 +1,4 @@
+[epoch: 1, batch:     21] loss: 0.21727 time model: 0.02634 acc: 0.02344
+[epoch: 1, batch:     41] loss: 0.21897 time model: 0.02637 acc: 0.01875
+[epoch: 1, batch:     61] loss: 0.21923 time model: 0.02638 acc: 0.01458
+[epoch: 1, batch:     81] loss: 0.21898 time model: 0.02639 acc: 0.01328

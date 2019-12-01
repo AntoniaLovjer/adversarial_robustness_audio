@@ -1,0 +1,52 @@
+[epoch: 1, batch:     20] loss: 0.08194 time model: 0.07368 acc: 0.16406
+[epoch: 1, batch:     40] loss: 0.06937 time model: 0.07363 acc: 0.26990
+epoch:1 train loss: 0.06937082330132746 train acc: 0.26990445859872614 valid loss: 0.08964112599690756 valid acc: 0.26
+[epoch: 2, batch:     20] loss: 0.04410 time model: 0.07387 acc: 0.49844
+[epoch: 2, batch:     40] loss: 0.04112 time model: 0.07508 acc: 0.54618
+epoch:2 train loss: 0.04112107169096637 train acc: 0.5461783439490446 valid loss: 0.04995083371798197 valid acc: 0.5133333333333333
+[epoch: 3, batch:     20] loss: 0.03125 time model: 0.07310 acc: 0.61562
+[epoch: 3, batch:     40] loss: 0.03098 time model: 0.07354 acc: 0.64092
+epoch:3 train loss: 0.030982866883277893 train acc: 0.6409235668789809 valid loss: 0.06584265232086181 valid acc: 0.44
+[epoch: 4, batch:     20] loss: 0.02617 time model: 0.07415 acc: 0.70000
+[epoch: 4, batch:     40] loss: 0.02510 time model: 0.07529 acc: 0.72054
+epoch:4 train loss: 0.025100645247348556 train acc: 0.7205414012738853 valid loss: 0.059355261325836184 valid acc: 0.37333333333333335
+[epoch: 1, batch:     20] loss: 0.16850 time model: 0.04586 acc: 0.17813
+[epoch: 1, batch:     40] loss: 0.14848 time model: 0.04582 acc: 0.23281
+[epoch: 1, batch:     60] loss: 0.14014 time model: 0.04582 acc: 0.25729
+epoch:1 train loss: 0.1363059178848935 train acc: 0.27229299363057324 valid loss: 0.15514594157536823 valid acc: 0.26666666666666666
+[epoch: 2, batch:     20] loss: 0.10806 time model: 0.04590 acc: 0.37812
+[epoch: 2, batch:     40] loss: 0.10580 time model: 0.04586 acc: 0.38750
+[epoch: 2, batch:     60] loss: 0.10249 time model: 0.04586 acc: 0.41042
+epoch:2 train loss: 0.10085419631877522 train acc: 0.429140127388535 valid loss: 0.12087985674540201 valid acc: 0.36
+[epoch: 3, batch:     20] loss: 0.08027 time model: 0.04583 acc: 0.51562
+[epoch: 3, batch:     40] loss: 0.07679 time model: 0.04584 acc: 0.54688
+[epoch: 3, batch:     60] loss: 0.07643 time model: 0.04585 acc: 0.55417
+epoch:3 train loss: 0.07526178923761769 train acc: 0.5652866242038217 valid loss: 0.11072556972503662 valid acc: 0.44
+[epoch: 4, batch:     20] loss: 0.06654 time model: 0.04586 acc: 0.63750
+[epoch: 4, batch:     40] loss: 0.06821 time model: 0.04586 acc: 0.62500
+[epoch: 4, batch:     60] loss: 0.06570 time model: 0.04586 acc: 0.63438
+epoch:4 train loss: 0.0622231004296974 train acc: 0.6552547770700637 valid loss: 0.06939861536026001 valid acc: 0.6466666666666666
+[epoch: 5, batch:     20] loss: 0.05316 time model: 0.04586 acc: 0.71562
+[epoch: 5, batch:     40] loss: 0.05627 time model: 0.04584 acc: 0.69375
+[epoch: 5, batch:     60] loss: 0.05361 time model: 0.04583 acc: 0.69896
+epoch:5 train loss: 0.05279350397028741 train acc: 0.697452229299363 valid loss: 0.0718597916762034 valid acc: 0.64
+[epoch: 6, batch:     20] loss: 0.05049 time model: 0.04581 acc: 0.66250
+[epoch: 6, batch:     40] loss: 0.04793 time model: 0.04583 acc: 0.70000
+[epoch: 6, batch:     60] loss: 0.04448 time model: 0.04585 acc: 0.72813
+epoch:6 train loss: 0.04384047037382035 train acc: 0.73328025477707 valid loss: 0.04503855466842652 valid acc: 0.74
+[epoch: 7, batch:     20] loss: 0.03862 time model: 0.04585 acc: 0.76562
+[epoch: 7, batch:     40] loss: 0.03926 time model: 0.04586 acc: 0.75625
+[epoch: 7, batch:     60] loss: 0.03794 time model: 0.04584 acc: 0.77292
+epoch:7 train loss: 0.03926792686247522 train acc: 0.7659235668789809 valid loss: 0.050335857272148135 valid acc: 0.7533333333333333
+[epoch: 8, batch:     20] loss: 0.03163 time model: 0.04585 acc: 0.82188
+[epoch: 8, batch:     40] loss: 0.03620 time model: 0.04587 acc: 0.79375
+[epoch: 8, batch:     60] loss: 0.03594 time model: 0.04588 acc: 0.80208
+epoch:8 train loss: 0.03580930110090857 train acc: 0.7945859872611465 valid loss: 0.05545532127221425 valid acc: 0.7266666666666667
+[epoch: 9, batch:     20] loss: 0.02996 time model: 0.04588 acc: 0.85313
+[epoch: 9, batch:     40] loss: 0.02886 time model: 0.04588 acc: 0.84688
+[epoch: 9, batch:     60] loss: 0.02869 time model: 0.04588 acc: 0.84792
+epoch:9 train loss: 0.029221431346266133 train acc: 0.8479299363057324 valid loss: 0.10982797861099243 valid acc: 0.5533333333333333
+[epoch: 10, batch:     20] loss: 0.02633 time model: 0.04577 acc: 0.83750
+[epoch: 10, batch:     40] loss: 0.02351 time model: 0.04583 acc: 0.85781
+[epoch: 10, batch:     60] loss: 0.02539 time model: 0.04584 acc: 0.85000
+epoch:10 train loss: 0.027309597274110576 train acc: 0.8447452229299363 valid loss: 0.05325738886992137 valid acc: 0.7666666666666667
